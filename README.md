@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vhdl,verilog,cpp,python,matlab,git,linux,github,arduino,raspberrypi&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vhdl,verilog,python,git,linux,github,&theme=light" />
 </p>
 
 ---
